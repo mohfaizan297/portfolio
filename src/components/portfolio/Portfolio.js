@@ -15,7 +15,7 @@ export default function Portfolio() {
       image: IMG6,
       title: 'My Portfolio',
       github: 'https://github.com',
-      demo: 'https://github.com/mohfaizan297'
+      demo: 'https://mohfaizan297.github.io/portfolio/'
     },
     {
       id: 2,
